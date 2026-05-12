@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Transactions>
+  <Transaction id="1">
+    <Title>Supermarket</Title>
+    <Amount>850.5</Amount>
+    <Date>2024-06-01</Date>
+    <CategoryId>1</CategoryId>
+    <Note></Note>
+  </Transaction>
+  <Transaction id="3">
+    <Title>Cafe</Title>
+    <Amount>320</Amount>
+    <Date>2024-06-07</Date>
+    <CategoryId>3</CategoryId>
+    <Note></Note>
+  </Transaction>
+  <Transaction id="4">
+    <Title>Utilities</Title>
+    <Amount>1450</Amount>
+    <Date>2024-06-10</Date>
+    <CategoryId>4</CategoryId>
+    <Note></Note>
+  </Transaction>
+  <Transaction id="6">
+    <Title>Pharmacy</Title>
+    <Amount>215.75</Amount>
+    <Date>2024-06-14</Date>
+    <CategoryId>5</CategoryId>
+    <Note></Note>
+  </Transaction>
+  <Transaction id="7">
+    <Title>Cinema</Title>
+    <Amount>380</Amount>
+    <Date>2024-06-15</Date>
+    <CategoryId>3</CategoryId>
+    <Note></Note>
+  </Transaction>
+  <Transaction id="8">
+    <Title>Internet</Title>
+    <Amount>250</Amount>
+    <Date>2024-06-16</Date>
+    <CategoryId>4</CategoryId>
+    <Note></Note>
+  </Transaction>
+  <Transaction id="10">
+    <Title>Market</Title>
+    <Amount>640</Amount>
+    <Date>2024-06-20</Date>
+    <CategoryId>1</CategoryId>
+    <Note></Note>
+  </Transaction>
+</Transactions>
