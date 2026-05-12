@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "Title": "Supermarket",
+    "Amount": 850.5,
+    "Date": "2024-06-01T00:00:00",
+    "IsExpense": true,
+    "CategoryId": 1,
+    "Note": ""
+  },
+  {
+    "Id": 2,
+    "Title": "Salary",
+    "Amount": 25000,
+    "Date": "2024-06-05T00:00:00",
+    "IsExpense": false,
+    "CategoryId": 2,
+    "Note": ""
+  },
+  {
+    "Id": 3,
+    "Title": "Cafe",
+    "Amount": 320,
+    "Date": "2024-06-07T00:00:00",
+    "IsExpense": true,
+    "CategoryId": 3,
+    "Note": ""
+  },
+  {
+    "Id": 4,
+    "Title": "Utilities",
+    "Amount": 1450,
+    "Date": "2024-06-10T00:00:00",
+    "IsExpense": true,
+    "CategoryId": 4,
+    "Note": ""
+  },
+  {
+    "Id": 5,
+    "Title": "Freelance",
+    "Amount": 5000,
+    "Date": "2024-06-12T00:00:00",
+    "IsExpense": false,
+    "CategoryId": 2,
+    "Note": ""
+  },
+  {
+    "Id": 6,
+    "Title": "Pharmacy",
+    "Amount": 215.75,
+    "Date": "2024-06-14T00:00:00",
+    "IsExpense": true,
+    "CategoryId": 5,
+    "Note": ""
+  },
+  {
+    "Id": 7,
+    "Title": "Cinema",
+    "Amount": 380,
+    "Date": "2024-06-15T00:00:00",
+    "IsExpense": true,
+    "CategoryId": 3,
+    "Note": ""
+  },
+  {
+    "Id": 8,
+    "Title": "Internet",
+    "Amount": 250,
+    "Date": "2024-06-16T00:00:00",
+    "IsExpense": true,
+    "CategoryId": 4,
+    "Note": ""
+  },
+  {
+    "Id": 9,
+    "Title": "Sold items",
+    "Amount": 1200,
+    "Date": "2024-06-18T00:00:00",
+    "IsExpense": false,
+    "CategoryId": 2,
+    "Note": ""
+  },
+  {
+    "Id": 10,
+    "Title": "Market",
+    "Amount": 640,
+    "Date": "2024-06-20T00:00:00",
+    "IsExpense": true,
+    "CategoryId": 1,
+    "Note": ""
+  }
+]
